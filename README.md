@@ -1,7 +1,7 @@
 ![m](https://github.com/JacksonPY/JacksonPY/blob/main/m.jpg)
 - 👋 Hi, I’m @JacksonPY
-- 👀 I’m interested in Python, InfoSec, Data and Scripting
-- 🌱 I’m currently learning OOP, Networking, Security and Russian
+- 👀 I’m interested in everything tech. 
+- 🌱 I’m currently learning OOP, Game Development, Application Security and Russian.
 
 
 <!---
