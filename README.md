@@ -1,7 +1,7 @@
 ![m](https://github.com/JacksonPY/JacksonPY/blob/main/m.jpg)
 - 👋 Hi, I’m @JacksonPY
-- 👀 I’m interested in everything tech. 
-- 🌱 I’m currently learning OOP, Game Development, Application Security and Russian.
+- 👀 I’m interested in security and its application.
+- 🌱 I’m currently learning OOP, Game Development, Security and Russian.
 
 
 <!---
