@@ -1,6 +1,5 @@
 ![m](https://github.com/JacksonPY/JacksonPY/blob/main/m.jpg)
 - 👋 Hi, I’m @jksnxd
-- 👀 I’m interested in security and its application.
 
 
 <!---
